@@ -1,4 +1,5 @@
 //SUPER TRUNFO DE CARTAS.
+
 // char: Armazena um único caractere (letras, números, símbolos).
 // int: Armazena números inteiros (sem casas decimais).
 // float: Armazena números de ponto flutuante (com casas decimais) com precisão simples.
